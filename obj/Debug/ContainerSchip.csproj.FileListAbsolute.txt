@@ -1,0 +1,9 @@
+D:\Fontys\Semester 2\ContainerSchip\ContainerSchip\bin\Debug\ContainerSchip.exe.config
+D:\Fontys\Semester 2\ContainerSchip\ContainerSchip\bin\Debug\ContainerSchip.exe
+D:\Fontys\Semester 2\ContainerSchip\ContainerSchip\bin\Debug\ContainerSchip.pdb
+D:\Fontys\Semester 2\ContainerSchip\ContainerSchip\obj\Debug\ContainerSchip.csprojAssemblyReference.cache
+D:\Fontys\Semester 2\ContainerSchip\ContainerSchip\obj\Debug\ContainerSchip.Form1.resources
+D:\Fontys\Semester 2\ContainerSchip\ContainerSchip\obj\Debug\ContainerSchip.Properties.Resources.resources
+D:\Fontys\Semester 2\ContainerSchip\ContainerSchip\obj\Debug\ContainerSchip.csproj.GenerateResource.cache
+D:\Fontys\Semester 2\ContainerSchip\ContainerSchip\obj\Debug\ContainerSchip.exe
+D:\Fontys\Semester 2\ContainerSchip\ContainerSchip\obj\Debug\ContainerSchip.pdb
